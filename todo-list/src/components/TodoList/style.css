@@ -1,0 +1,17 @@
+li{
+    margin-bottom: 20px;
+}
+
+
+
+li button{
+    margin-left: 10rem;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
